@@ -1,8 +1,4 @@
-### Hi there!/Olá! 👋
 
-- 🌱 I’m currently learning/Atualmente estou aprendendo: Python
-- 😄 Pronouns/Pronomes: He/Him/His/Ele/Dele
-- ⚡ Languages/Línguas: English/Português
 
 <div align="center">
   <a href="https://github.com/Joao-PauloVS">
